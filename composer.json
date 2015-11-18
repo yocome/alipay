@@ -1,0 +1,22 @@
+{
+  "name": "yocome/alipay",
+  "description": "支付宝支付SDK",
+  "keywords": ["alipay","lumen","laravel"],
+  "homepage": "https://github.com/yocome/alipay",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4"
+  },
+  "authors": [
+    {
+      "name": "Yong",
+      "email": "yocome@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Yocome\\Alipay\\": "src/"
+    }
+  }
+}
